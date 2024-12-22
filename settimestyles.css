@@ -968,6 +968,7 @@ nav li a:hover {
     .left {
         width: 100%;
         border-right: none;
+        padding: 0;
     }
 
     .right {
@@ -1061,11 +1062,14 @@ nav li a:hover {
 
     .section2 {
         margin-top: 0;
+        border-top: 2px dotted black;
     }
 
     .left {
         width: 100%;
         border-right: none;
+        padding: 0;
+        border-right: 2px dotted black;
     }
 
     .right {
@@ -1085,6 +1089,6 @@ nav li a:hover {
         font-size: 10px;
     }
 
-
+  
 
 }
