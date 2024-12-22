@@ -239,7 +239,7 @@ nav li a:hover {
     .stage1 h1 {
         text-align: center; 
         font-size: 15px;
-        font-weight: 700;
+        font-weight: 400;
         margin: 0; 
     }
 
@@ -433,7 +433,7 @@ nav li a:hover {
     .stage2 h1 {
         text-align: center;
         font-size: 15px;
-        font-weight: 700;
+        font-weight: 400;
         margin: 0;
     }
 
@@ -599,7 +599,7 @@ nav li a:hover {
     .stage3 h1 {
         text-align: center;
         font-size: 15px;
-        font-weight: 700;
+        font-weight: 400;
         margin: 0;
     }
 
@@ -1069,7 +1069,17 @@ nav li a:hover {
         width: 100%;
         border-right: none;
         padding: 0;
-        border-right: 2px dotted black;
+    }
+
+    .horizontal div {
+        border-bottom: 2px dotted black; 
+    }
+
+    .vertical div {
+        border-bottom: 2px dotted  black; 
+    }
+    .vertical div:first-child {
+        border-top: 2px dotted black; 
     }
 
     .right {
