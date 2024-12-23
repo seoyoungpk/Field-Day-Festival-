@@ -4,5 +4,5 @@
 [Please click here to enter the website](https://seoyoungpk.github.io/Field-Day-Festival-/fieldday.html)
 
 <p>
-<img src="https://github.com/user-attachments/assets/fcf47768-ca3e-4644-890a-2115e902a463">
+<img src="https://github.com/user-attachments/assets/590b047c-d14d-492d-85ae-210bf5db5761">
 </p>
