@@ -7,5 +7,5 @@
 
 
  <div class="mockup" id="mockup">
-        <img src="images/mockup" alt="mockup" width="3635" height="2734">
+        <img src="images/mockup.jpg" alt="mockup" width="3635" height="2734">
     </div>
